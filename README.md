@@ -6,3 +6,5 @@
 * _Clone landing page do Instagram_: [(Clique aqui para acessar)](https://gabrielfleckl.github.io/projeto-insta/)
 
 * _Contador responsivo_: [(Clique aqui para acessar)](https://gabrielfleckl.github.io/Projetos-javascript/Contador/index.html)
+
+* _Tela de login com animações_: [(Clique aqui para acessar)](https://gabrielfleckl.github.io/projeto-login/)
