@@ -6,3 +6,5 @@
 * _Clone landing page do Instagram_: [(Clique aqui para acessar)](https://gabrielfleckl.github.io/projeto-insta/)
 
 * _Tela de login com animações_: [(Clique aqui para acessar)](https://gabrielfleckl.github.io/projeto-login/)
+
+* _Projeto To-do list_: [(Clique aqui para acessar)](https://gabrielfleckl.github.io/to-do-list/index.html)
